@@ -29,3 +29,5 @@ model: Contains model classes used throughout the app.
 repository: Contains repositories used for fetching data from different sources.
 service: Contains classes that communicate with APIs using Dio and Retrofit.
 utils: Contains utility classes and functions.
+![Simulator Screenshot - iPhone 14 Pro Max - 2023-04-29 at 19 24 37](https://user-images.githubusercontent.com/45130757/235310561-d7f64669-ea3e-4b34-9750-56b3dcc0a0a4.png)
+![Simulator Screenshot - iPhone 14 Pro Max - 2023-04-29 at 19 24 42](https://user-images.githubusercontent.com/45130757/235310571-1950c86a-dada-430b-bb8c-7abe6a78585f.png)
